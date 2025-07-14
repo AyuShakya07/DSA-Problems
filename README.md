@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/AyuShakya07/DSA-Problems/tree/master/0921-spiral-matrix-iii) |
 | [2478-longest-nice-subarray](https://github.com/AyuShakya07/DSA-Problems/tree/master/2478-longest-nice-subarray) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AyuShakya07/DSA-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Bit Manipulation
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AyuShakya07/DSA-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Matrix
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/AyuShakya07/DSA-Problems/tree/master/0921-spiral-matrix-iii) |
+## Simulation
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/AyuShakya07/DSA-Problems/tree/master/0921-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
