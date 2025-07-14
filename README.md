@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/AyuShakya07/DSA-Problems/tree/master/0921-spiral-matrix-iii) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AyuShakya07/DSA-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2478-longest-nice-subarray](https://github.com/AyuShakya07/DSA-Problems/tree/master/2478-longest-nice-subarray) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AyuShakya07/DSA-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Bit Manipulation
@@ -48,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/AyuShakya07/DSA-Problems/tree/master/0921-spiral-matrix-iii) |
+## Hash Table
+|  |
+| ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AyuShakya07/DSA-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+## Counting
+|  |
+| ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AyuShakya07/DSA-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 <!---LeetCode Topics End-->
