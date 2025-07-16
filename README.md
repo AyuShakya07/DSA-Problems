@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AyuShakya07/DSA-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/AyuShakya07/DSA-Problems/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [3396-valid-word](https://github.com/AyuShakya07/DSA-Problems/tree/master/3396-valid-word) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/AyuShakya07/DSA-Problems/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Greedy
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/AyuShakya07/DSA-Problems/tree/master/0921-spiral-matrix-iii) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/AyuShakya07/DSA-Problems/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Hash Table
 |  |
 | ------- |
