@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AyuShakya07/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [1080-camelcase-matching](https://github.com/AyuShakya07/DSA-Problems/tree/master/1080-camelcase-matching) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AyuShakya07/DSA-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AyuShakya07/DSA-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AyuShakya07/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AyuShakya07/DSA-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Linked List
 |  |
@@ -69,10 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AyuShakya07/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AyuShakya07/DSA-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AyuShakya07/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AyuShakya07/DSA-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Prefix Sum
 |  |
@@ -95,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AyuShakya07/DSA-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AyuShakya07/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AyuShakya07/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
