@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AyuShakya07/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0952-word-subsets](https://github.com/AyuShakya07/DSA-Problems/tree/master/0952-word-subsets) |
 | [1080-camelcase-matching](https://github.com/AyuShakya07/DSA-Problems/tree/master/1080-camelcase-matching) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AyuShakya07/DSA-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AyuShakya07/DSA-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/AyuShakya07/DSA-Problems/tree/master/0921-spiral-matrix-iii) |
+| [0952-word-subsets](https://github.com/AyuShakya07/DSA-Problems/tree/master/0952-word-subsets) |
 | [1080-camelcase-matching](https://github.com/AyuShakya07/DSA-Problems/tree/master/1080-camelcase-matching) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AyuShakya07/DSA-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AyuShakya07/DSA-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AyuShakya07/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0952-word-subsets](https://github.com/AyuShakya07/DSA-Problems/tree/master/0952-word-subsets) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AyuShakya07/DSA-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Counting
 |  |
