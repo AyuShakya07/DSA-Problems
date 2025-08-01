@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/AyuShakya07/DSA-Problems/tree/master/0118-pascals-triangle) |
 | [0921-spiral-matrix-iii](https://github.com/AyuShakya07/DSA-Problems/tree/master/0921-spiral-matrix-iii) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AyuShakya07/DSA-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0952-word-subsets](https://github.com/AyuShakya07/DSA-Problems/tree/master/0952-word-subsets) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/AyuShakya07/DSA-Problems/tree/master/0118-pascals-triangle) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AyuShakya07/DSA-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AyuShakya07/DSA-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Trie
