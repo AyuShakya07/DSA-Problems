@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/AyuShakya07/DSA-Problems/tree/master/0118-pascals-triangle) |
 | [0921-spiral-matrix-iii](https://github.com/AyuShakya07/DSA-Problems/tree/master/0921-spiral-matrix-iii) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AyuShakya07/DSA-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/AyuShakya07/DSA-Problems/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/AyuShakya07/DSA-Problems/tree/master/0952-word-subsets) |
 | [1080-camelcase-matching](https://github.com/AyuShakya07/DSA-Problems/tree/master/1080-camelcase-matching) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AyuShakya07/DSA-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/AyuShakya07/DSA-Problems/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AyuShakya07/DSA-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/AyuShakya07/DSA-Problems/tree/master/1813-maximum-erasure-value) |
 | [2478-longest-nice-subarray](https://github.com/AyuShakya07/DSA-Problems/tree/master/2478-longest-nice-subarray) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AyuShakya07/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0940-fruit-into-baskets](https://github.com/AyuShakya07/DSA-Problems/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/AyuShakya07/DSA-Problems/tree/master/0952-word-subsets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AyuShakya07/DSA-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AyuShakya07/DSA-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
