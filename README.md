@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AyuShakya07/DSA-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AyuShakya07/DSA-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AyuShakya07/DSA-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/AyuShakya07/DSA-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/AyuShakya07/DSA-Problems/tree/master/0921-spiral-matrix-iii) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/AyuShakya07/DSA-Problems/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3790-fruits-into-baskets-ii](https://github.com/AyuShakya07/DSA-Problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3931-process-string-with-special-operations-i](https://github.com/AyuShakya07/DSA-Problems/tree/master/3931-process-string-with-special-operations-i) |
 ## Hash Table
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/AyuShakya07/DSA-Problems/tree/master/0099-recover-binary-search-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AyuShakya07/DSA-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3790-fruits-into-baskets-ii](https://github.com/AyuShakya07/DSA-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -168,4 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AyuShakya07/DSA-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/AyuShakya07/DSA-Problems/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/AyuShakya07/DSA-Problems/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
