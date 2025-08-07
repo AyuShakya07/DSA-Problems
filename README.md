@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AyuShakya07/DSA-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AyuShakya07/DSA-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AyuShakya07/DSA-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/AyuShakya07/DSA-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AyuShakya07/DSA-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/AyuShakya07/DSA-Problems/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [3396-valid-word](https://github.com/AyuShakya07/DSA-Problems/tree/master/3396-valid-word) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/AyuShakya07/DSA-Problems/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AyuShakya07/DSA-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/AyuShakya07/DSA-Problems/tree/master/1813-maximum-erasure-value) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/AyuShakya07/DSA-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2478-longest-nice-subarray](https://github.com/AyuShakya07/DSA-Problems/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AyuShakya07/DSA-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Two Pointers
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/AyuShakya07/DSA-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/AyuShakya07/DSA-Problems/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Dynamic Programming
 |  |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/AyuShakya07/DSA-Problems/tree/master/0099-recover-binary-search-tree) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/AyuShakya07/DSA-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AyuShakya07/DSA-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/AyuShakya07/DSA-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Tree
