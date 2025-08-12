@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AyuShakya07/DSA-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AyuShakya07/DSA-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/AyuShakya07/DSA-Problems/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/AyuShakya07/DSA-Problems/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AyuShakya07/DSA-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AyuShakya07/DSA-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/AyuShakya07/DSA-Problems/tree/master/3790-fruits-into-baskets-ii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AyuShakya07/DSA-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2487-optimal-partition-of-string](https://github.com/AyuShakya07/DSA-Problems/tree/master/2487-optimal-partition-of-string) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/AyuShakya07/DSA-Problems/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/AyuShakya07/DSA-Problems/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AyuShakya07/DSA-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting
 |  |
