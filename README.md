@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AyuShakya07/DSA-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/AyuShakya07/DSA-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AyuShakya07/DSA-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/AyuShakya07/DSA-Problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/AyuShakya07/DSA-Problems/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2487-optimal-partition-of-string](https://github.com/AyuShakya07/DSA-Problems/tree/master/2487-optimal-partition-of-string) |
 | [3396-valid-word](https://github.com/AyuShakya07/DSA-Problems/tree/master/3396-valid-word) |
