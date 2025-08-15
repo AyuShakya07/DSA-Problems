@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AyuShakya07/DSA-Problems/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/AyuShakya07/DSA-Problems/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/AyuShakya07/DSA-Problems/tree/master/0371-sum-of-two-integers) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AyuShakya07/DSA-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AyuShakya07/DSA-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/AyuShakya07/DSA-Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AyuShakya07/DSA-Problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/AyuShakya07/DSA-Problems/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/AyuShakya07/DSA-Problems/tree/master/0371-sum-of-two-integers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AyuShakya07/DSA-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AyuShakya07/DSA-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -204,4 +206,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/AyuShakya07/DSA-Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AyuShakya07/DSA-Problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/AyuShakya07/DSA-Problems/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
