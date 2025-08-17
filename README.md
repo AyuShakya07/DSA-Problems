@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AyuShakya07/DSA-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AyuShakya07/DSA-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AyuShakya07/DSA-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/AyuShakya07/DSA-Problems/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/AyuShakya07/DSA-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AyuShakya07/DSA-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/AyuShakya07/DSA-Problems/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AyuShakya07/DSA-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AyuShakya07/DSA-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1813-maximum-erasure-value](https://github.com/AyuShakya07/DSA-Problems/tree/master/1813-maximum-erasure-value) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/AyuShakya07/DSA-Problems/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AyuShakya07/DSA-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AyuShakya07/DSA-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/AyuShakya07/DSA-Problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AyuShakya07/DSA-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1813-maximum-erasure-value](https://github.com/AyuShakya07/DSA-Problems/tree/master/1813-maximum-erasure-value) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AyuShakya07/DSA-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/AyuShakya07/DSA-Problems/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2487-optimal-partition-of-string](https://github.com/AyuShakya07/DSA-Problems/tree/master/2487-optimal-partition-of-string) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/AyuShakya07/DSA-Problems/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/AyuShakya07/DSA-Problems/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/AyuShakya07/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AyuShakya07/DSA-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AyuShakya07/DSA-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/AyuShakya07/DSA-Problems/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 ## Prefix Sum
 |  |
 | ------- |
