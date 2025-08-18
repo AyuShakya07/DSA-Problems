@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/AyuShakya07/DSA-Problems/tree/master/0099-recover-binary-search-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AyuShakya07/DSA-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/AyuShakya07/DSA-Problems/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/AyuShakya07/DSA-Problems/tree/master/0099-recover-binary-search-tree) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/AyuShakya07/DSA-Problems/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/AyuShakya07/DSA-Problems/tree/master/0099-recover-binary-search-tree) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/AyuShakya07/DSA-Problems/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Backtracking
 |  |
 | ------- |
