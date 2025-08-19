@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AyuShakya07/DSA-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AyuShakya07/DSA-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/AyuShakya07/DSA-Problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/AyuShakya07/DSA-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/AyuShakya07/DSA-Problems/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2478-longest-nice-subarray](https://github.com/AyuShakya07/DSA-Problems/tree/master/2478-longest-nice-subarray) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AyuShakya07/DSA-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AyuShakya07/DSA-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/AyuShakya07/DSA-Problems/tree/master/1448-maximum-69-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AyuShakya07/DSA-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/AyuShakya07/DSA-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Matrix
 |  |
 | ------- |
