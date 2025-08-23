@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/AyuShakya07/DSA-Problems/tree/master/0134-gas-station) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AyuShakya07/DSA-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1448-maximum-69-number](https://github.com/AyuShakya07/DSA-Problems/tree/master/1448-maximum-69-number) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AyuShakya07/DSA-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AyuShakya07/DSA-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/AyuShakya07/DSA-Problems/tree/master/0952-word-subsets) |
 | [1080-camelcase-matching](https://github.com/AyuShakya07/DSA-Problems/tree/master/1080-camelcase-matching) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AyuShakya07/DSA-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AyuShakya07/DSA-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AyuShakya07/DSA-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1813-maximum-erasure-value](https://github.com/AyuShakya07/DSA-Problems/tree/master/1813-maximum-erasure-value) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/AyuShakya07/DSA-Problems/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AyuShakya07/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AyuShakya07/DSA-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AyuShakya07/DSA-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Linked List
 |  |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/AyuShakya07/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0940-fruit-into-baskets](https://github.com/AyuShakya07/DSA-Problems/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/AyuShakya07/DSA-Problems/tree/master/0952-word-subsets) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AyuShakya07/DSA-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AyuShakya07/DSA-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AyuShakya07/DSA-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1813-maximum-erasure-value](https://github.com/AyuShakya07/DSA-Problems/tree/master/1813-maximum-erasure-value) |
