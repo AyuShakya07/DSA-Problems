@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1080-camelcase-matching](https://github.com/AyuShakya07/DSA-Problems/tree/master/1080-camelcase-matching) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AyuShakya07/DSA-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AyuShakya07/DSA-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AyuShakya07/DSA-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AyuShakya07/DSA-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1813-maximum-erasure-value](https://github.com/AyuShakya07/DSA-Problems/tree/master/1813-maximum-erasure-value) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/AyuShakya07/DSA-Problems/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/AyuShakya07/DSA-Problems/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AyuShakya07/DSA-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AyuShakya07/DSA-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/AyuShakya07/DSA-Problems/tree/master/1813-maximum-erasure-value) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/AyuShakya07/DSA-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2478-longest-nice-subarray](https://github.com/AyuShakya07/DSA-Problems/tree/master/2478-longest-nice-subarray) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/AyuShakya07/DSA-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AyuShakya07/DSA-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AyuShakya07/DSA-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AyuShakya07/DSA-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AyuShakya07/DSA-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Trie
 |  |
