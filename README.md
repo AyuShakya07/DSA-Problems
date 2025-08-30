@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/AyuShakya07/DSA-Problems/tree/master/0036-valid-sudoku) |
 | [0118-pascals-triangle](https://github.com/AyuShakya07/DSA-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AyuShakya07/DSA-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0134-gas-station](https://github.com/AyuShakya07/DSA-Problems/tree/master/0134-gas-station) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/AyuShakya07/DSA-Problems/tree/master/0036-valid-sudoku) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AyuShakya07/DSA-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/AyuShakya07/DSA-Problems/tree/master/0921-spiral-matrix-iii) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AyuShakya07/DSA-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/AyuShakya07/DSA-Problems/tree/master/0036-valid-sudoku) |
 | [0451-sort-characters-by-frequency](https://github.com/AyuShakya07/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/AyuShakya07/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/AyuShakya07/DSA-Problems/tree/master/0940-fruit-into-baskets) |
