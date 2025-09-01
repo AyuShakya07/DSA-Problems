@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AyuShakya07/DSA-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/AyuShakya07/DSA-Problems/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/AyuShakya07/DSA-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/AyuShakya07/DSA-Problems/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AyuShakya07/DSA-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/AyuShakya07/DSA-Problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/AyuShakya07/DSA-Problems/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/AyuShakya07/DSA-Problems/tree/master/1448-maximum-69-number) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AyuShakya07/DSA-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AyuShakya07/DSA-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/AyuShakya07/DSA-Problems/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2487-optimal-partition-of-string](https://github.com/AyuShakya07/DSA-Problems/tree/master/2487-optimal-partition-of-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AyuShakya07/DSA-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AyuShakya07/DSA-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/AyuShakya07/DSA-Problems/tree/master/0371-sum-of-two-integers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AyuShakya07/DSA-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/AyuShakya07/DSA-Problems/tree/master/1448-maximum-69-number) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/AyuShakya07/DSA-Problems/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AyuShakya07/DSA-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AyuShakya07/DSA-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Matrix
@@ -250,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/AyuShakya07/DSA-Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AyuShakya07/DSA-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AyuShakya07/DSA-Problems/tree/master/0342-power-of-four) |
+## Game Theory
+|  |
+| ------- |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/AyuShakya07/DSA-Problems/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 <!---LeetCode Topics End-->
