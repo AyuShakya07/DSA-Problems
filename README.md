@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/AyuShakya07/DSA-Problems/tree/master/2478-longest-nice-subarray) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AyuShakya07/DSA-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AyuShakya07/DSA-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/AyuShakya07/DSA-Problems/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/AyuShakya07/DSA-Problems/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/AyuShakya07/DSA-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/AyuShakya07/DSA-Problems/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/AyuShakya07/DSA-Problems/tree/master/0498-diagonal-traverse) |
 | [0921-spiral-matrix-iii](https://github.com/AyuShakya07/DSA-Problems/tree/master/0921-spiral-matrix-iii) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AyuShakya07/DSA-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/AyuShakya07/DSA-Problems/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AyuShakya07/DSA-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AyuShakya07/DSA-Problems/tree/master/3748-sort-matrix-by-diagonals) |
 ## Simulation
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AyuShakya07/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/AyuShakya07/DSA-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/AyuShakya07/DSA-Problems/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/AyuShakya07/DSA-Problems/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Dynamic Programming
 |  |
 | ------- |
