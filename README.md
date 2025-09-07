@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1080-camelcase-matching](https://github.com/AyuShakya07/DSA-Problems/tree/master/1080-camelcase-matching) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AyuShakya07/DSA-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AyuShakya07/DSA-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AyuShakya07/DSA-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AyuShakya07/DSA-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AyuShakya07/DSA-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1813-maximum-erasure-value](https://github.com/AyuShakya07/DSA-Problems/tree/master/1813-maximum-erasure-value) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/AyuShakya07/DSA-Problems/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/AyuShakya07/DSA-Problems/tree/master/0371-sum-of-two-integers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AyuShakya07/DSA-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AyuShakya07/DSA-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/AyuShakya07/DSA-Problems/tree/master/1448-maximum-69-number) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/AyuShakya07/DSA-Problems/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AyuShakya07/DSA-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
