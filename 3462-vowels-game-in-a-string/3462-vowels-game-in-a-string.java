@@ -1,9 +1,8 @@
 class Solution {
     public boolean doesAliceWin(String s) {
-        String vowel="aeiou";
         int vowelCount=0;
         for(char c:s.toCharArray()){
-            if(vowel.contains(String.valueOf(c))){
+            if(c=='a' || c=='e' || c=='i' || c=='o' || c=='u'){
                 vowelCount++;
             }
         }
