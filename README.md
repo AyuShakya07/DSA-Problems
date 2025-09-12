@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-optimal-partition-of-string](https://github.com/AyuShakya07/DSA-Problems/tree/master/2487-optimal-partition-of-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/AyuShakya07/DSA-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/AyuShakya07/DSA-Problems/tree/master/3396-valid-word) |
+| [3462-vowels-game-in-a-string](https://github.com/AyuShakya07/DSA-Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/AyuShakya07/DSA-Problems/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3931-process-string-with-special-operations-i](https://github.com/AyuShakya07/DSA-Problems/tree/master/3931-process-string-with-special-operations-i) |
 ## Greedy
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/AyuShakya07/DSA-Problems/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AyuShakya07/DSA-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AyuShakya07/DSA-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3462-vowels-game-in-a-string](https://github.com/AyuShakya07/DSA-Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/AyuShakya07/DSA-Problems/tree/master/3830-find-closest-person) |
 ## Matrix
 |  |
@@ -284,4 +286,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/AyuShakya07/DSA-Problems/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [3462-vowels-game-in-a-string](https://github.com/AyuShakya07/DSA-Problems/tree/master/3462-vowels-game-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/AyuShakya07/DSA-Problems/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
