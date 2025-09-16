@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/AyuShakya07/DSA-Problems/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AyuShakya07/DSA-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AyuShakya07/DSA-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/AyuShakya07/DSA-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/AyuShakya07/DSA-Problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AyuShakya07/DSA-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/AyuShakya07/DSA-Problems/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/AyuShakya07/DSA-Problems/tree/master/1448-maximum-69-number) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/AyuShakya07/DSA-Problems/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AyuShakya07/DSA-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/AyuShakya07/DSA-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AyuShakya07/DSA-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3462-vowels-game-in-a-string](https://github.com/AyuShakya07/DSA-Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/AyuShakya07/DSA-Problems/tree/master/3830-find-closest-person) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AyuShakya07/DSA-Problems/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AyuShakya07/DSA-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/AyuShakya07/DSA-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Tree
 |  |
 | ------- |
@@ -296,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/AyuShakya07/DSA-Problems/tree/master/3462-vowels-game-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/AyuShakya07/DSA-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
