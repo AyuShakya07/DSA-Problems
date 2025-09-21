@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/AyuShakya07/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/AyuShakya07/DSA-Problems/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AyuShakya07/DSA-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/AyuShakya07/DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AyuShakya07/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/AyuShakya07/DSA-Problems/tree/master/0692-top-k-frequent-words) |
 | [0952-word-subsets](https://github.com/AyuShakya07/DSA-Problems/tree/master/0952-word-subsets) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/AyuShakya07/DSA-Problems/tree/master/0036-valid-sudoku) |
+| [0387-first-unique-character-in-a-string](https://github.com/AyuShakya07/DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AyuShakya07/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/AyuShakya07/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/AyuShakya07/DSA-Problems/tree/master/0692-top-k-frequent-words) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AyuShakya07/DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AyuShakya07/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/AyuShakya07/DSA-Problems/tree/master/0692-top-k-frequent-words) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AyuShakya07/DSA-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -309,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/AyuShakya07/DSA-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AyuShakya07/DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
