@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AyuShakya07/DSA-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/AyuShakya07/DSA-Problems/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/AyuShakya07/DSA-Problems/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/AyuShakya07/DSA-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/AyuShakya07/DSA-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/AyuShakya07/DSA-Problems/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AyuShakya07/DSA-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/AyuShakya07/DSA-Problems/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2487-optimal-partition-of-string](https://github.com/AyuShakya07/DSA-Problems/tree/master/2487-optimal-partition-of-string) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/AyuShakya07/DSA-Problems/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/AyuShakya07/DSA-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/AyuShakya07/DSA-Problems/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AyuShakya07/DSA-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/AyuShakya07/DSA-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AyuShakya07/DSA-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AyuShakya07/DSA-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/AyuShakya07/DSA-Problems/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/AyuShakya07/DSA-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/AyuShakya07/DSA-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
 |  |
