@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/AyuShakya07/DSA-Problems/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/AyuShakya07/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/AyuShakya07/DSA-Problems/tree/master/0692-top-k-frequent-words) |
+| [0830-largest-triangle-area](https://github.com/AyuShakya07/DSA-Problems/tree/master/0830-largest-triangle-area) |
 | [0921-spiral-matrix-iii](https://github.com/AyuShakya07/DSA-Problems/tree/master/0921-spiral-matrix-iii) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AyuShakya07/DSA-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/AyuShakya07/DSA-Problems/tree/master/0940-fruit-into-baskets) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/AyuShakya07/DSA-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AyuShakya07/DSA-Problems/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/AyuShakya07/DSA-Problems/tree/master/0371-sum-of-two-integers) |
+| [0830-largest-triangle-area](https://github.com/AyuShakya07/DSA-Problems/tree/master/0830-largest-triangle-area) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AyuShakya07/DSA-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AyuShakya07/DSA-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/AyuShakya07/DSA-Problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -324,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/AyuShakya07/DSA-Problems/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/AyuShakya07/DSA-Problems/tree/master/0181-employees-earning-more-than-their-managers) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/AyuShakya07/DSA-Problems/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
