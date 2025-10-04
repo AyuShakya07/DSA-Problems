@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AyuShakya07/DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/AyuShakya07/DSA-Problems/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/AyuShakya07/DSA-Problems/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/AyuShakya07/DSA-Problems/tree/master/0455-assign-cookies) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AyuShakya07/DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/AyuShakya07/DSA-Problems/tree/master/0036-valid-sudoku) |
 | [0118-pascals-triangle](https://github.com/AyuShakya07/DSA-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AyuShakya07/DSA-Problems/tree/master/0119-pascals-triangle-ii) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AyuShakya07/DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/AyuShakya07/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AyuShakya07/DSA-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/AyuShakya07/DSA-Problems/tree/master/0455-assign-cookies) |
