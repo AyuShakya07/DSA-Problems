@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/AyuShakya07/DSA-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AyuShakya07/DSA-Problems/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AyuShakya07/DSA-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/AyuShakya07/DSA-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AyuShakya07/DSA-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AyuShakya07/DSA-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AyuShakya07/DSA-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/AyuShakya07/DSA-Problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1080-camelcase-matching](https://github.com/AyuShakya07/DSA-Problems/tree/master/1080-camelcase-matching) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AyuShakya07/DSA-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/AyuShakya07/DSA-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AyuShakya07/DSA-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AyuShakya07/DSA-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AyuShakya07/DSA-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AyuShakya07/DSA-Problems/tree/master/0455-assign-cookies) |
 | [0692-top-k-frequent-words](https://github.com/AyuShakya07/DSA-Problems/tree/master/0692-top-k-frequent-words) |
 | [0958-sort-array-by-parity-ii](https://github.com/AyuShakya07/DSA-Problems/tree/master/0958-sort-array-by-parity-ii) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/AyuShakya07/DSA-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AyuShakya07/DSA-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AyuShakya07/DSA-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AyuShakya07/DSA-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/AyuShakya07/DSA-Problems/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/AyuShakya07/DSA-Problems/tree/master/0952-word-subsets) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/AyuShakya07/DSA-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/AyuShakya07/DSA-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AyuShakya07/DSA-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AyuShakya07/DSA-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AyuShakya07/DSA-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
