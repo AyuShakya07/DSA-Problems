@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/AyuShakya07/DSA-Problems/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/AyuShakya07/DSA-Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/AyuShakya07/DSA-Problems/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AyuShakya07/DSA-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/AyuShakya07/DSA-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3931-process-string-with-special-operations-i](https://github.com/AyuShakya07/DSA-Problems/tree/master/3931-process-string-with-special-operations-i) |
 ## Greedy
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/AyuShakya07/DSA-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3336-water-bottles-ii](https://github.com/AyuShakya07/DSA-Problems/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/AyuShakya07/DSA-Problems/tree/master/3462-vowels-game-in-a-string) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AyuShakya07/DSA-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/AyuShakya07/DSA-Problems/tree/master/3830-find-closest-person) |
 ## Matrix
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/AyuShakya07/DSA-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/AyuShakya07/DSA-Problems/tree/master/3336-water-bottles-ii) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/AyuShakya07/DSA-Problems/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AyuShakya07/DSA-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/AyuShakya07/DSA-Problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3931-process-string-with-special-operations-i](https://github.com/AyuShakya07/DSA-Problems/tree/master/3931-process-string-with-special-operations-i) |
 ## Hash Table
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/AyuShakya07/DSA-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AyuShakya07/DSA-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Queue
 |  |
 | ------- |
@@ -358,4 +362,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AyuShakya07/DSA-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AyuShakya07/DSA-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
