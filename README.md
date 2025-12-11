@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/AyuShakya07/DSA-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/AyuShakya07/DSA-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/AyuShakya07/DSA-Problems/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/AyuShakya07/DSA-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AyuShakya07/DSA-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AyuShakya07/DSA-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AyuShakya07/DSA-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/AyuShakya07/DSA-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AyuShakya07/DSA-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3336-water-bottles-ii](https://github.com/AyuShakya07/DSA-Problems/tree/master/3336-water-bottles-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/AyuShakya07/DSA-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/AyuShakya07/DSA-Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/AyuShakya07/DSA-Problems/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AyuShakya07/DSA-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/AyuShakya07/DSA-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/AyuShakya07/DSA-Problems/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/AyuShakya07/DSA-Problems/tree/master/2508-maximum-sum-of-an-hourglass) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/AyuShakya07/DSA-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
